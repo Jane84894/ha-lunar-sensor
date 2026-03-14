@@ -1,0 +1,11 @@
+{
+  "domain": "lunar_calendar",
+  "name": "农历传感器",
+  "version": "1.0.0",
+  "documentation": "https://github.com/D1ts1337/ha-lunar-sensor",
+  "issue_tracker": "https://github.com/D1ts1337/ha-lunar-sensor/issues",
+  "dependencies": [],
+  "codeowners": ["@D1ts1337"],
+  "requirements": ["lunardate>=0.2.0"],
+  "iot_class": "local_polling"
+}
